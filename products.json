@@ -1,0 +1,29 @@
+[
+  {
+    "id": "prod-1",
+    "href": "",
+    "name": "Space Jelly TShirt",
+    "description": "High quality Cosmo TShirt, get awesome!",
+    "src": "/images/spacejelly-tshirt.jpg",
+    "alt": "Space Jelly T-Shirt",
+    "price": "20"
+  },
+  {
+    "id": "prod-2",
+    "href": "",
+    "name": "Space Jelly Stickers",
+    "description": "dd some space awesomeness to everything.",
+    "src": "/images/spacejelly-stickers.jpg",
+    "alt": "Space Jelly Stickers",
+    "price":  "5"
+  },
+  {
+    "id": "prod-3",
+    "href": "",
+    "name": "Space Jelly Combo",
+    "description": "Have the best of both! With stickers and a T-Shirt!",
+    "src": "/images/spacejelly-combo.jpg",
+    "alt": "Space Jelly Stickers and T-Shirt",
+    "price":  "24"
+  }
+]
